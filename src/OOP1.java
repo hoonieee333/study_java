@@ -8,7 +8,7 @@ public class OOP1 {
 
     }
   static void printArr(int[] argArr) {
-    // enhanced for.
+    // enhanced for
     for (int i : argArr) {
       System.out.print(i + " ");
     }
